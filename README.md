@@ -2,7 +2,7 @@
 ## Date:30.09.2025
 
 ## AIM:
- To design a website to calculate the Body Mass Inden(BMI) in the server side. 
+ To design a website to calculate the Body Mass Index(BMI) in the server side. 
 
 
 ## FORMULA:
